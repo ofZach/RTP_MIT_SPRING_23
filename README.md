@@ -1,5 +1,5 @@
-# RTP Spring 2022 
-RTP class at MIT, Spring 2022
+# RTP Spring 2023
+RTP class at MIT, Spring 2023
 
 This code goes in the "apps" folder in openframeworks. 
 
